@@ -1,1 +1,1 @@
-# kkb-k8s-mos-deploy-plugin
+# kkb k8s rollout plugin
